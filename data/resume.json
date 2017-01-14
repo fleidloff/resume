@@ -1,0 +1,101 @@
+{
+  "basics": {
+    "name": "Frederik Leidloff",
+    "label": "Frontend Engineer",
+    "picture": "",
+    "email": "fleidloff@team.mobile.de",
+    "phone": "(+49) 176 6208 9374",
+    "website": "http://www.frederik-leidloff.de",
+    "work": "mobile.de (ebay)",
+    "summary": "some introduction here tbd - react, less, node, java, css, html5",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "living in Berlin",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [{
+    "company": "mobile.de (ebay)",
+    "position": "Senior Frontend Engineer",
+    "website": "http://www.mobile.de",
+    "startDate": "2016-07",
+    "endDate": "now",
+    "summary": "As part of the mobile.de long-term-monetization project: rewrite of the inventory list with React.js.",
+    "highlights": []
+  }, {
+    "company": "mobile.de (ebay)",
+    "position": "Software Engineer",
+    "website": "http://www.mobile.de",
+    "startDate": "2015/01",
+    "endDate": "2016/06",
+    "summary": "Working on a Call Tracking solution for all mobile.de dealers. Also started to facilitate Retrospectives for other teams.",
+    "highlights": []
+  }, {
+    "company": "mobile.de (ebay)",
+    "position": "Junior Software Engineer",
+    "website": "http://www.mobile.de",
+    "startDate": "2013/09",
+    "endDate": "2014/12",
+    "summary": "Started working at mobile.de as Junior Software Engineer for the AutoAct Team. From 2014 on, working on the commercial side of the mobile.de product. Facilitated a Design Thinking Workshop for the mobile.de commercial Team.",
+    "highlights": []
+  }, {
+    "company": "Hasso Plattner Institute",
+    "position": "Student Assistent, \"SOA securty lab\"",
+    "website": "http://www.hpi.de",
+    "startDate": "2010",
+    "endDate": "2011",
+    "summary": "",
+    "highlights": []
+  }, {
+    "company": "Pflegewerk Managementgesellschaft mbH",
+    "position": "Student Assistent, Web Design",
+    "website": "http://www.pflegewerk.com/ambulant.html",
+    "startDate": "2007",
+    "endDate": "2009",
+    "summary": "",
+    "highlights": []
+  }],
+  "education": [{
+    "institution": "Hasso Plattner Institute, Potsdam",
+    "area": "IT-Systems Engineering",
+    "studyType": "Master of Science in IT-Systems Engineering",
+    "startDate": "2010",
+    "endDate": "2013",
+    "summary": "Specialized in Internet & Security Technology. Master's Thesis Title: \"Sensor Fusion for Understanding Design Thinking Teams\". Grade: A-"
+  }, {
+    "institution": "HPI School of Design Thinking, Potsdam",
+    "area": "Design Thinking",
+    "studyType": "Design Thinking",
+    "startDate": "2012/04",
+    "endDate": "2012/09",
+    "summary": "Basic Track"
+  }, {
+    "institution": "University of Coimbra, Portugal",
+    "area": "Informatics Engineering",
+    "studyType": "Informatics Engineering",
+    "startDate": "2011/08",
+    "endDate": "2012/02",
+    "summary": "Erasmus"
+  }, {
+    "institution": "Hasso Plattner Institute, Potsdam",
+    "area": "IT-Systems Engineering",
+    "studyType": "Bachelor of Science in IT-Systems Engineering",
+    "startDate": "2007",
+    "endDate": "2010",
+    "summary": "BSpecialized in Internet technologies and systems. Grade: B+"
+  }],
+  "languages": [{
+    "name": "German",
+    "level": "Native speaker"
+  }, {
+    "name": "English",
+    "level": "Fluent"
+  },{
+    "name": "Portuguese",
+    "level": "Beginner"
+  }],
+  "interests": "I play the saxophone in a salsa band (<a target='_blank' href='http://www.esquina-latina.de'>www.esquina-latina.de</a>), I like sports (Cycling, Football), I do photography (<a target='_blank' href='https://www.instagram.com/fred.berlin.photos'>instagram/fred.berlin.photos</a> ) and love traveling."
+}
