@@ -4,7 +4,7 @@ export default ({ summary }) => (
 
         <section className="part">
             <div className="part-description">
-                <p>{summary}</p>
+                <p dangerouslySetInnerHTML={{ __html: summary }} />
             </div>
         </section>
     </div>

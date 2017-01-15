@@ -100,7 +100,7 @@ h3 {
 .part-avatar, .part-avatar img {
     width: 200px;
     height: 200px;
-    margin: 0 auto;
+    margin: 0 auto 1em;
 }
 .part-avatar img {
     border-radius: 100px;
@@ -176,7 +176,7 @@ h3 {
     }
 
     .header {
-        margin: 80% 2em 0;
+        margin: 2em 2em 0;
         text-align: right;
     }
 

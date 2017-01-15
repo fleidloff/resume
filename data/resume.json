@@ -5,9 +5,9 @@
     "picture": "/static/avatar.jpg",
     "email": "fleidloff@team.mobile.de",
     "phone": "(+49) 176 6208 9374",
-    "website": "http://www.frederik-leidloff.de",
+    "website": "www.frederik-leidloff.de",
     "work": "mobile.de (ebay)",
-    "summary": "I'm a berlin based Frontend Engineer working at mobile.de. The past years, I worked woth different technologies, including React.js, ES6, less, node.js, CSS3, HTML5, mocha and many more.",
+    "summary": "I'm a berlin based Frontend Engineer working at <a target=\"_blank\" href=\"http://www.mobile.de\">mobile.de</a>. The past years, I worked woth different technologies, including React.js, ES6, less, node.js, CSS3, HTML5, mocha and many more.",
     "location": {
       "address": "",
       "postalCode": "",
