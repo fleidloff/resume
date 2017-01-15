@@ -188,10 +188,10 @@ h3 {
 }
 
 
-.work h4 {
+.work h4, .education h4 {
     margin: 0.2em;
 }
 
-.work p {
+.work p, .education p {
     margin: 0.2em;
 }

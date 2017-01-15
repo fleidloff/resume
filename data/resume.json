@@ -7,7 +7,7 @@
     "phone": "(+49) 176 6208 9374",
     "website": "www.frederik-leidloff.de",
     "work": "mobile.de (ebay)",
-    "summary": "I'm a berlin based Frontend Engineer working at <a target=\"_blank\" href=\"http://www.mobile.de\">mobile.de</a>. The past years, I worked woth different technologies, including React.js, ES6, less, node.js, CSS3, HTML5, mocha and many more.",
+    "summary": "I'm a Berlin based Frontend Engineer working at <a target=\"_blank\" href=\"http://www.mobile.de\">mobile.de</a>. The past years, I worked with different technologies, including React.js, ES6, less, node.js, CSS3, HTML5, mocha and many more.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -21,9 +21,9 @@
     "company": "mobile.de (ebay)",
     "position": "Senior Frontend Engineer",
     "website": "http://www.mobile.de",
-    "startDate": "2016-07",
+    "startDate": "2016/07",
     "endDate": "now",
-    "summary": "As part of the mobile.de long-term-monetization project: rewrite of the inventory list with React.js.",
+    "summary": "As part of the mobile.de long-term-monetization project, I rewrote the inventory list with React.js.",
     "highlights": []
   }, {
     "company": "mobile.de (ebay)",
@@ -31,7 +31,7 @@
     "website": "http://www.mobile.de",
     "startDate": "2015/01",
     "endDate": "2016/06",
-    "summary": "Working on a Call Tracking solution for all mobile.de dealers. Also started to facilitate Retrospectives for other teams.",
+    "summary": "I was working on a Call Tracking solution for all mobile.de car dealers. Furthermore, I started to facilitate retrospectives for other teams.",
     "highlights": []
   }, {
     "company": "mobile.de (ebay)",
@@ -39,7 +39,7 @@
     "website": "http://www.mobile.de",
     "startDate": "2013/09",
     "endDate": "2014/12",
-    "summary": "Started working at mobile.de as Junior Software Engineer for the AutoAct Team. From 2014 on, working on the commercial side of the mobile.de product. Co-organized a Design Thinking Workshop for the mobile.de commercial Team.",
+    "summary": "I Started working at mobile.de as Junior Software Engineer for the AutoAct Team. From 2014 on, I was working on the commercial side of the mobile.de product. Additionally, I Co-organized a Design Thinking Workshop for the mobile.de commercial Team.",
     "highlights": []
   }, {
     "company": "Hasso Plattner Institute",
@@ -64,7 +64,7 @@
     "studyType": "Master of Science in IT-Systems Engineering",
     "startDate": "2010",
     "endDate": "2013",
-    "summary": "Specialized in Internet & Security Technology. Master's Thesis Title: \"Sensor Fusion for Understanding Design Thinking Teams\". Grade: A-"
+    "summary": "I Specialized in Internet & Security Technology and wrote my master's thesis on \"Sensor Fusion for Understanding Design Thinking Teams\" (Grade: A-)."
   }, {
     "institution": "HPI School of Design Thinking, Potsdam",
     "area": "Design Thinking",
@@ -85,7 +85,7 @@
     "studyType": "Bachelor of Science in IT-Systems Engineering",
     "startDate": "2007",
     "endDate": "2010",
-    "summary": "Specialized in Internet technologies and systems. Grade: B+"
+    "summary": "I Specialized in internet technologies and systems (Grade: B+)."
   }],
   "languages": [{
     "name": "German",
@@ -97,5 +97,5 @@
     "name": "Portuguese",
     "level": "Beginner"
   }],
-  "interests": "I play the saxophone in a salsa band (<a target='_blank' href='http://www.esquina-latina.de'>www.esquina-latina.de</a>), I like sports (Cycling, Football), I do photography (<a target='_blank' href='https://www.instagram.com/fred.berlin.photos'>instagram/fred.berlin.photos</a> ) and love traveling."
+  "interests": "I play the saxophone in a salsa band (<a target='_blank' href='http://www.esquina-latina.de'>www.esquina-latina.de</a>), I like sports (cycling, football), I do photography (<a target='_blank' href='https://www.instagram.com/fred.berlin.photos'>instagram/fred.berlin.photos</a> ) and love traveling."
 }
