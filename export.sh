@@ -1,7 +1,7 @@
 #!/bin/bash -e
 
 ADDR=${ADDR:-'http://localhost:3000'}
-DEST=${DEST:-'dist'}
+DEST=${DEST:-'docs'}
 PAGES_DIR=${PAGES_DIR:-'pages'}
 
 echo "starting server..."
