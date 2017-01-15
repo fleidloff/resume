@@ -1,5 +1,8 @@
-export default ({ name, label, email, phone, website, work, location }) => (
+export default ({ picture, name, label, email, phone, website, work, location }) => (
     <div className="header">
+        <div className="part-avatar">
+            <img src={picture} />
+        </div>
         <h1 className="brand-title">{name}</h1>
         <h2 className="brand-tagline">{label}</h2>
         <p className="part-meta">at {work}</p>

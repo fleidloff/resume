@@ -3,6 +3,7 @@ import About from "./About";
 import Work from "./Work";
 import Education from "./Education";
 import Interests from "./Interests";
+import SourceCode from "./SourceCode";
 
 export default (data) => (
     <div id="layout" className="pure-g">
@@ -14,6 +15,7 @@ export default (data) => (
             <Work work={data.work} />
             <Education education={data.education} />
             <Interests interests={data.interests} />
+            <SourceCode />
         </div>
     </div>
 )

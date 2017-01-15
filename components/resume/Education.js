@@ -9,7 +9,6 @@ export default ({ education = [] }) => (
 )
 
 function renderSchool({ institution, studyType, startDate, endDate, summary }, idx) {
-    console.log("education idx", idx);
     return (
         <section className="part" key={idx}>
             <header className="part-header">
