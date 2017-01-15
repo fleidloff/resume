@@ -14,9 +14,10 @@ export default ({ work = [] }) => (
     </div>
 )
 
-function renderPosition({ company, isPromotion, position, startDate, endDate, summary, highlights }) {
+function renderPosition({ company, isPromotion, position, startDate, endDate, summary, highlights }, idx) {
+    console.log("work idx", idx);
     return (
-        <section className="part">
+        <section className="part" key={idx} >
             <header className="part-header">
                 { !isPromotion ? <h2 className="part-title">{company}</h2> : null}
 
