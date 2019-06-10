@@ -19,11 +19,28 @@
   },
   "work": [{
     "company": "mobile.de (ebay)",
+    "position": "Team Lead Software Engineering",
+    "website": "http://www.mobile.de",
+    "startDate": "2019/01",
+    "endDate": "now",
+    "summary": "Working as a Team Lead in an agile core mobile.de Software Team focussing on APIs and 360 degree images.",
+    "highlights": []
+  },
+  {
+    "company": "Marktplaats (ebay)",
+    "position": "Senior Frontend Engineer",
+    "website": "http://marktplaats.nl",
+    "startDate": "2017/09",
+    "endDate": "2018/02",
+    "summary": "Working for 6 months inside the ebay universe at marktplaats in Amsterdam. Most interesting project was 'web push notifications'",
+    "highlights": []
+  },{
+    "company": "mobile.de (ebay)",
     "position": "Senior Frontend Engineer",
     "website": "http://www.mobile.de",
     "startDate": "2016/07",
-    "endDate": "now",
-    "summary": "As part of the mobile.de long-term-monetization project, I rewrote the inventory list with React.js.",
+    "endDate": "2018/12",
+    "summary": "As part of the mobile.de long-term-monetization project, I rewrote the inventory list with React.js. In 2018, I worked few months in our consumer team helping to make our main consumer-facing application -- the public search -- responsive",
     "highlights": []
   }, {
     "company": "mobile.de (ebay)",
@@ -32,7 +49,7 @@
     "startDate": "2015/01",
     "endDate": "2016/06",
     "summary": "I was working on a Call Tracking solution for all mobile.de car dealers. Furthermore, I started to facilitate retrospectives for other teams.",
-    "highlights": []
+    "highlights": ["Received ebay's critical-talent award"]
   }, {
     "company": "mobile.de (ebay)",
     "position": "Junior Software Engineer",
