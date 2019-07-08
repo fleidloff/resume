@@ -1,13 +1,13 @@
 {
   "basics": {
     "name": "Frederik Leidloff",
-    "label": "Frontend Engineer",
+    "label": "Senior Frontend Engineer",
     "picture": "/static/avatar.jpg",
-    "email": "fleidloff@team.mobile.de",
+    "email": "hello@frederik-leidloff.de",
     "phone": "(+49) 176 6208 9374",
     "website": "www.frederik-leidloff.de",
-    "work": "mobile.de (ebay)",
-    "summary": "I'm a Berlin based Frontend Engineer working at <a target=\"_blank\" href=\"http://www.mobile.de\">mobile.de</a>. The past years, I worked with different technologies, including React.js, ES6, less, node.js, CSS3, HTML5, mocha and many more.",
+    "work": "looking for a new job",
+    "summary": "I'm a Berlin based Senior Frontend Engineer looking for new opportunities (part-time) close to Neukölln. The past years, I worked at mobile.de and marktplaats.nl as Frontend Engineer and Team Lead with different technologies, including React.js, ES6, less, node.js, CSS3, HTML5, mocha and many more. I'm also an experienced facilitator for retrospectives and love working with agile methodologies.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -114,5 +114,5 @@
     "name": "Portuguese",
     "level": "Beginner"
   }],
-  "interests": "I started playing the electric bass few years ago and play in a band now. I also used to play the saxophone in a salsa band, I like sports (cycling, football), I do photography and love traveling. Since September 2019, I'm a father which is by far my greatest and most time consuming interest at the moment."
+  "interests": "I love music! I started playing the electric bass 2 years ago and play in a band. I also used to play the saxophone in a salsa band, I like sports (cycling, football), I do photography and love traveling by bike and train. Since September 2019, I'm a father which is by far my greatest and most time consuming interest at the moment."
 }
