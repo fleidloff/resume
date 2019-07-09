@@ -27,6 +27,15 @@
     "highlights": []
   },
   {
+    "company": "mobile.de (ebay)",
+    "position": "Senior Frontend Engineer",
+    "website": "http://www.mobile.de",
+    "startDate": "2018/03",
+    "endDate": "2018/12",
+    "summary": "In 2018, I worked few months in our consumer team helping to make our main consumer-facing application -- the public search -- responsive",
+    "highlights": []
+  },
+  {
     "company": "Marktplaats (ebay)",
     "position": "Senior Frontend Engineer",
     "website": "http://marktplaats.nl",
@@ -39,8 +48,8 @@
     "position": "Senior Frontend Engineer",
     "website": "http://www.mobile.de",
     "startDate": "2016/07",
-    "endDate": "2018/12",
-    "summary": "As part of the mobile.de long-term-monetization project, I rewrote the inventory list with React.js. In 2018, I worked few months in our consumer team helping to make our main consumer-facing application -- the public search -- responsive",
+    "endDate": "2017/08",
+    "summary": "As part of the mobile.de long-term-monetization project, I rewrote the inventory list with React.js.",
     "highlights": []
   }, {
     "company": "mobile.de (ebay)",
@@ -48,7 +57,7 @@
     "website": "http://www.mobile.de",
     "startDate": "2015/01",
     "endDate": "2016/06",
-    "summary": "I was working on a Call Tracking solution for all mobile.de car dealers. Furthermore, I started to facilitate retrospectives for other teams.",
+    "summary": "I was working on a Call Tracking solution for all mobile.de car dealers. Furthermore, I started to facilitate retrospectives for other teams. In the beginning of 2016, I received the Critical Talent Award from eBay.",
     "highlights": ["Received ebay's critical-talent award"]
   }, {
     "company": "mobile.de (ebay)",
