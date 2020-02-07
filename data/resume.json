@@ -18,6 +18,14 @@
     "profiles": []
   },
   "work": [{
+    "company": "Thomann Code & Cookie Factory",
+    "position": "App Developer",
+    "website": "http://www.mobile.de",
+    "startDate": "2019-11-01",
+    "endDate": "",
+    "summary": "React-native App Developer for ios and android. Furthermore working on the web with php and react.js.",
+    "highlights": []
+  },{
     "company": "mobile.de (ebay)",
     "position": "Team Lead Software Engineering",
     "website": "http://www.mobile.de",
