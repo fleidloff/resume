@@ -22,7 +22,7 @@
     "position": "App Developer",
     "website": "http://www.mobile.de",
     "startDate": "2019-11-01",
-    "endDate": "",
+    "endDate": "today",
     "summary": "React-native App Developer for ios and android. Furthermore working on the web with php and react.js.",
     "highlights": []
   },{
@@ -30,7 +30,7 @@
     "position": "Team Lead Software Engineering",
     "website": "http://www.mobile.de",
     "startDate": "2019-01-01",
-    "endDate": "2019-06-30",
+    "endDate": "2019-09-30",
     "summary": "Working as a Team Lead in an agile core mobile.de Software Team focussing on APIs and 360 degree images.",
     "highlights": []
   },
